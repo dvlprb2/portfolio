@@ -1181,3 +1181,9 @@ section .container {
 .credits a:hover {
     color: #fff;
 }
+
+.img-cover{
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+}
